@@ -27,5 +27,10 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+        <item name="android:textViewStyle">@style/OpenSansTextFontFamily</item>
+    </style>
+
+    <style name="OpenSansTextFontFamily" parent="android:Widget.TextView">
+        <item name="android:fontFamily">@font/opensans_regular</item>
     </style>
 </resources>

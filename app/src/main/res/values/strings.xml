@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Github User</string>
     <string name="url_github_user">Url github user</string>
+    <string name="title_search">Search...</string>
+    <string name="hi_coders">Hi, Coders</string>
+    <string name="explore_another_coders">Explore Another Coders</string>
+    <string name="top_github_users">Top Github Users</string>
 </resources>
